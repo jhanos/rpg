@@ -1416,11 +1416,11 @@ Sinon, allez à [140](#140)
   
 # 134  
  Le carrosse parcourt la campagne.  
-Au début, l'intérieur est étouffant et l'estomac se noue à chaque virage.  
-Mais le chauffeur ouvre sa fenêtre et en changeant de siège, vous trouvez un endroit où la brise vous frappe au visage.  
+Au début, l'intérieur est étouffant et votre estomac se noue à chaque virage.  
+Mais le chauffeur ouvre sa fenêtre et en changeant de siège, vous trouvez un endroit où la brise vous raffraichit au visage.  
 Vous vous détendez bientôt en observant les petits hameaux pittoresques que le car dessert.  
-Une femme bien en chair monte à bord d'une des colonies et vous fait un signe de tête poli.  
-Elle descend à la prochaine.  
+Une femme bien en chair monte à bord d'un des arrêts et vous fait un signe de tête poli.  
+Elle descend à l'arrêt prochain.  
 La route s'élève un peu, passant devant des champs de maïs et des vergers.  
 Les feuilles tournent et les arbres s'animent de rouges et d'ors glorieux.  
 Vous commencez tout juste à somnoler lorsque le conducteur prend un virage serré à grande vitesse.  
@@ -1434,12 +1434,12 @@ Nous appelons cela "3D6".
 Si vous êtes novice en matière de jeu de rôle, vous pouvez vous informer sur les dés de jeu de rôle et leur terminologie à la page 6 des règles de démarrage rapide.  
 Multipliez votre jet de 3D6 par 5 pour obtenir votre score de chance de départ et notez-le sur votre feuille d'enquêteur.  
 Vous devez maintenant faire un jet contre votre DEX.  
-Jet 1D[100](#100)  
+Jet 1D100 
 Cela signifie que vous devez lancer deux dés à dix faces et utiliser une valeur pour les dizaines et une valeur pour les unités.  
 Vous devez choisir lequel est lequel avant de faire le jet ! Si le résultat est égal ou inférieur à votre DEX, vous avez réussi le jet.  
 Si vous avez obtenu un résultat supérieur à votre DEX, vous avez échoué le jet.  
 Vous pouvez être tenté de ne pas faire de tels jets et de faire comme si vous aviez toujours réussi.  
-Mais Call of Cthulhu est un jeu de mystère et d'horreur.  
+Mais l'appel de Cthulhu est un jeu de mystère et d'horreur.  
 Les terribles catastrophes qui peuvent arriver à votre personnage font partie du plaisir.  
 Vous ne vous amuserez pas forcément plus si vous réussissez tous les jets que si vous échouez.  
 Si vous avez réussi le jet de DEX, passez à [261](#261)  
@@ -2541,7 +2541,7 @@ Divisez chaque valeur par deux, en arrondissant à l'inférieur, et inscrivez le
 Divisez également chaque valeur par 5, en arrondissant à nouveau à l'inférieur, et inscrivez le résultat dans la case inférieure droite.  
 Nous utiliserons ces chiffres plus tard.  
 Si vous utilisez la version PDF interactive de la feuille d'enquête, vous verrez qu'elle fait tout le calcul pour vous ! Dans la bande ci-dessous, vous verrez des pistes qui enregistrent des points de santé mentale et de magie.  
-La santé mentale de départ est égale à votre prisonnier de guerre d'origine, et les points de magie de départ sont identiques à la valeur que vous venez d'attribuer pour les prisonniers de guerre divisée par [5](#5)  
+La santé mentale de départ est égale à votre POU d'origine, et les points de magie de départ sont identiques à la valeur que vous venez d'attribuer pour le POU divisée par 5.  
 Marquez-les sur les pistes.  
 Ensuite, allez à [134](#134)  
   
