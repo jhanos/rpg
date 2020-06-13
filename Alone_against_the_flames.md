@@ -7,13 +7,13 @@ Pourtant, tous ceux que vous connaissez dans le monde vivent ici. Tu ne connais 
 La réponse est ici. Aucun de tes amis supposés n'est venu pour te voir partir. Tu es seul. Quels que soient les défis à Arkham, ce sera une nouvelle vie.  
 Un petit autocar gris s'approche et s'immobilise. Vous remettez votre chapeau et ramassez vos étuis.  
   
-Passez au 263  
+Passez au [263](#263)  
   
 # 2  
 Vous opposez une vive résistance, mais la masse de l'homme et la détermination vous fatigue. Enfin, il frappe un coup écrasant et vous tombez. La noirceur vous envahit.  
 Plus tard, vous êtes vaguement conscient de vos jambes levées et du frottement du dos contre le sol lorsque vous êtes entraîné.  
   
-Vous pouvez restaurer 1 point de vie. Rendez-vous au 108  
+Vous pouvez restaurer 1 point de vie. Rendez-vous au [108](#108)  
   
 # 3  
 Vos efforts matinaux vous ont donné faim. Vous parcourez le rues d'Emberhead à la recherche de nourriture. Il n'y a rien ressemblant aux cafés animés de votre ville natale, ou tout ce qui pourrait être appelé un restaurant.  
@@ -100,7 +100,7 @@ Les volets du hall principal sont ouvert et certaines fenêtres sont entrouverte
 Tu avancesde quelques marches à l'intérieur. Des bancs tapissent les murs et il y a deux panneaux d'affichage montés entre les fenêtres.  
   
 Pour examiner les panneaux d'affichage, rendez-vous au [17](#17)  
-Pour frapper à la porte fermée, rendez-vous au 24  
+Pour frapper à la porte fermée, rendez-vous au [24](#24)  
   
 # 12  
 Vous vous éloignez et sortez de l'atelier. Comme l'artisan vous suit, vous balancez la porte sur son visage.   
@@ -178,7 +178,7 @@ Elle se tortille autour de vous et s'enfuit dans sa chambre.
 Vous pouvez cocher la petite case à côté de la compétence Intimidation.  
   
 Pour sécuriser votre porte avec une chaise et vous endormir, rendez-vous au [58](#58)  
-Pour rester éveillé toute la nuit, rendez-vous au 52  
+Pour rester éveillé toute la nuit, rendez-vous au [52](#52)  
   
 # 20  
 L'artisan renifle, essayant de se vider le nez de sang. Il semble glisser dans l'inconscience.   
@@ -258,7 +258,7 @@ Vous essayez de vous enfuir, mais ils vous saisissent et vous soulevent du lit. 
 Chacun d'entre eux a un visage noirci avec le motif du triangle rouge.   
 Vous luttez, mais vous pouvez voir que votre résistance est vaine. Ils vous emmenent vers la rue centrale et puis ils tournent vers le phare.  
   
-Aller au 117  
+Aller au [117](#117)  
   
 # 28  
 Vous prenez de l'argent, de l'eau et quelques sandwiches. Il vous semble poli de laissez une note à May Ledbetter expliquant la situation.  
