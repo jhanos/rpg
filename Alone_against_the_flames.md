@@ -1,9 +1,14 @@
 # 1    
-Le soleil est haut dans le ciel, une boule de chaleur impitoyable. Ca sent le brûlé au moment où vous arrivez à l'arrêt de bus en face de la Pharmacie Osborn. C’est un soulagement de déposer vos valises lourdes et d'enlever votre chapeau un instant. Vous éventez votre visage. Les étés sont long ici, dans votre ville natale.   
-Vous regardez de l'autre côté de la rue, à la boucherie sale, la épiciers avec son auvent fané, et le buraliste minable. Des visages méfiants vous regardent en passant, regardant vos vêtements et bagages. C'était le choix de vos parents de vivre ici, pas le vôtre. Vous étiez heureux dans le sud quand vous étiez enfant, parmi les maisons aux murs blancs et cimetières verdoyants. Peut-être cette nouvelle emploi à Arkham fournira le changement dont vous avez besoin.   
-Pourtant, tous ceux que vous connaissez dans le monde vivent ici. Tu ne connais personne à Arkham. Tu te demandes une dernière fois si tu fais le bon choix.   
-La réponse est ici. Aucun de tes amis supposés n'est venu pour te voir partir. Tu es seul. Quels que soient les défis à Arkham, ce sera une nouvelle vie.  
-Un petit autocar gris s'approche et s'immobilise. Vous remettez votre chapeau et ramassez vos étuis.  
+Le soleil est haut dans le ciel, une boule de chaleur impitoyable.   
+Ca sent le brûlé au moment où vous arrivez à l'arrêt de bus en face de la Pharmacie Osborn.   
+C’est un soulagement de déposer vos valises lourdes et d'enlever votre chapeau un instant.   
+Vous éventez votre visage. Les étés sont long ici, dans votre ville natale.      
+Vous regardez de l'autre côté de la rue, à la boucherie sale, la épiciers avec son auvent fané, et le buraliste minable. Des visages méfiants vous regardent en passant, regardant vos vêtements et bagages.   
+C'était le choix de vos parents de vivre ici, pas le vôtre.   
+Vous étiez heureux dans le sud quand vous étiez enfant, parmi les maisons aux murs blancs et cimetières verdoyants. Peut-être cette nouvelle emploi à Arkham fournira le changement dont vous avez besoin.    
+Pourtant, tous ceux que vous connaissez dans le monde vivent ici. Tu ne connais personne à Arkham. Tu te demandes une dernière fois si tu fais le bon choix.    
+La réponse est ici. Aucun de tes amis supposés n'est venu pour te voir partir. Tu es seul. Quels que soient les défis à Arkham, ce sera une nouvelle vie.   
+Un petit autocar gris s'approche et s'immobilise. Vous remettez votre chapeau et ramassez vos étuis.   
   
 Passez au [263](#263)  
   
