@@ -1,5 +1,3 @@
-[95](# 95)  
-  
 # 1    
 Le soleil est haut dans le ciel, une boule de chaleur impitoyable. Ca sent le brûlé au moment où vous arrivez à l'arrêt de bus en face de la Pharmacie Osborn. C’est un soulagement de déposer vos valises lourdes et d'enlever votre chapeau un instant. Vous éventez votre visage. Les étés sont long ici, dans votre ville natale.   
 Vous regardez de l'autre côté de la rue, à la boucherie sale, la épiciers avec son auvent fané, et le buraliste minable. Des visages méfiants vous regardent en passant, regardant vos vêtements et bagages. C'était le choix de vos parents de vivre ici, pas le vôtre. Vous étiez heureux dans le sud quand vous étiez enfant, parmi les maisons aux murs blancs et cimetières verdoyants. Peut-être cette nouvelle emploi à Arkham fournira le changement dont vous avez besoin.   
