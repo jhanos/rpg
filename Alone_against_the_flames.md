@@ -62,7 +62,7 @@ Vous êtes arrivé sur la route sinueuse à l'ouest, la seule autre route part v
 Vous pouvez maintenant:  
 - Renseignez-vous sur le transport au magasin général local: rendez-vous au [16](#16)  
 - Sortez de la salle des fêtes: rendez-vous au [84](#84)  
-— Rendez-vous au niveau inférieur et découvrez la route de l'Est: aller à 115  
+— Rendez-vous au niveau inférieur et découvrez la route de l'Est: aller à [115](#115)  
 — Examinez la grande structure métallique: rendez-vous au [57](#57)  
 - Explorez l'église: rendez-vous au [34](#34)  
 — Recherchez les populations locales ayant leurs propres besoins de transport: rendez-vous au [96](#96)  
@@ -75,7 +75,7 @@ le cœur bondit quand vous voyez exactement la même scène à l'autre sortie du
   
 # 8  
 Le conducteur fume et regarde pendant que vous faites glisser vos valises vers le arrière de l'autocar. Le porte bagage est placé sur une hauteur pas pratique. Vous trouvez une prise sur la valise la plus lourde.  
-Si votre Taille est de 40 ou moins, passez à [23](#23) Si votre Taille est supérieure à cela, passez à 38  
+Si votre Taille est de 40 ou moins, passez à [23](#23) Si votre Taille est supérieure à cela, passez à [38](#38)  
   
 # 9  
 Vous vous accroupissez et demandez à Ruth ce qu'elle voulait dire.  
@@ -83,7 +83,7 @@ Vous vous accroupissez et demandez à Ruth ce qu'elle voulait dire.
 Son visage et sa voix sont tous les deux enfantins.  
 Ce changement brusque est inquiétant. Vous supposez que tous les enfants le font des choses terrible.  
 May roule des yeux et ébouriffe les cheveux de sa fille. Ruth regarde au sol.  
-Passez à 22  
+Passez à [22](#22)  
   
 # 10  
 "Grâce à votre sacrifice, le village renaîtra", dit le premier Danseur.  
@@ -91,7 +91,7 @@ Passez à 22
 «J'ai affaibli les chaînes», explique la troisième. "N'essayez pas de vous échapper jusqu'à ce que les flammes soient suffisamment hautes pour vous cacher. »  
 Vous regardez le troisième danseur. Dans ce visage vous discernez clairement les traits effrayés de Ruth Ledbetter.  
 Leur danse s'estompe et disparaît derrière les bâtiments.  
-Aller à 18  
+Aller à [18](#18)  
   
 # 11  
 La salle des fêtes surplombe l'arête nord inférieure du village. Vous marchez le long de Silbury Street pour le trouver, conscient de l'oppression de la structure en métal noir encadrée au bout de la route.   
@@ -137,7 +137,7 @@ May dit: «Ruth n'aime pas ça quand nous avons des invités dans le maison. Mai
 Parfois, nous devons faire des choses que nous ne voulons pas, mais qui sont tout de même nécessaires. "  
 May secoue la tête vers vous, puis hoche la tête dans la direction de la maison. Vous voyez un soupçon d'émotion dans ces yeux verts.  
   
-Passez à 22  
+Passez à [22](#22)  
   
 # 16  
 Le magasin général est sur un coin à côté de la route principale. Le commerçant est une dame vive et immense avec un tablier taché et des épaules solides.   
@@ -155,7 +155,7 @@ Le tableau d'affichage des enfants donne un horaire pour la crèche hebdomadaire
 La plupart sont incohérentes, bien que colorés. Du mieux que vous pouvez dire, ils représentent des feux d'artifice, ou peut-être le conte de Joseph du Livre de la Genèse.   
 L'un a perdu une épingle et se bloque à l'envers. Ça montre un oiseau géant attaquant Emberhead. Ou il se peut simplement que l'artiste n'est pas encore maîtrisé les subtilités de l'échelle.  
   
-Faites un jet de TOC. Si vous réussissez, rendez-vous au [30](#30) Si vous échouez, aller à 37  
+Faites un jet de TOC. Si vous réussissez, rendez-vous au [30](#30) Si vous échouez, aller à [37](#37)  
   
 # 18  
 Lorsque vous arrivez sous la balise, dix villageois se rapprochent de vous.  
@@ -185,7 +185,7 @@ L'artisan renifle, essayant de se vider le nez de sang. Il semble glisser dans l
 Vous le menaçez de le molester à moins qu'il ne parle des corps.  
 «Juste… des villageois», dit-il d'une voix rauque. «Mort… naturel. Nous les sauvons pour… le Festival. ”  
 Ses yeux se ferment et sa tête se penche sur le côté. Vous pouvez l'enfermer dans l'atelier pendant que vous pensez à votre prochaine action.  
-Passez à 120  
+Passez à [120](#120)  
   
 # 21  
 "Eh bien, je suppose que le festival est la seule raison pour laquelle les gens viennent à Emberhead. J'ai pensé que vous étiez peut-être venu l'étudier ou prendre des photos. Ce n'est pas demain soir, mais la nuit après.   
@@ -199,7 +199,7 @@ Après le dîner, vous avez quelques heures avant votre heure de coucher habitue
   
 Pour parler à May, allez au [31](#31)  
 Pour vous promener et vous orienter, allez à [75](#75)  
-Pour vous coucher tôt, allez à 63  
+Pour vous coucher tôt, allez à [63](#63)  
   
 # 22  
 Vous prenez congé des Ledbetters et vous vous dirigez vers leur maison. La porte s'ouvre facilement.   
@@ -226,7 +226,7 @@ Vous vous hâtez de vous excuser et de vous présenter. Il semble rassurer et vo
 Je prends généralement une tasse à cette heure de l'après-midi".  
 Son invitation semble assez sincère et constitue une bonne occasion pour poser toutes les questions qui vous viennent à l'esprit.  
   
-Aller à 43  
+Aller à [43](#43)  
   
 # 25  
 Vous commencez à prendre vos marques à Emberhead. Est-ce que vous voulez visiter davantage ?  
@@ -360,7 +360,7 @@ La porte racle le sol derrière vous. Un homme d'âge moyen, à lunettes appara�
 J'ai un faible pour une tasse l'après-midi et il est justement l'heure".  
 Il fait un geste vers la porte ouverte derrière lui. Cela ressemble à une une opportunité intéressante, et vous avez un peu soif.  
   
-Aller à 43  
+Aller à [43](#43)  
   
 # 38  
 Le chauffeur continue à savourer sa cigarette, en regardant avec attention l'intérêt que vous portez à ces affaires.   
@@ -595,7 +595,7 @@ Il recule un peu le carrosse et l'enroule autour du tracteur, en regardant le fe
 Vous avez perdu un point dans l'accident.  
 Notez la perte sur votre feuille d'enquête, mais gardez une trace de la valeur d'origine.  
 Vous finirez par guérir jusqu'à cette valeur.  
-Si vous tombez à 0 point de dommage, vous perdrez conscience et vous risquez de mourir.  
+Si vous tombez à [0](#0) point de dommage, vous perdrez conscience et vous risquez de mourir.  
 Allez maintenant jusqu'à [71](#71)  
   
 # 60  
@@ -963,8 +963,8 @@ Vous savez que le feu se rapproche de plus en plus par le contact de la chaleur 
 En prononçant les mots bizarres, vous vous rendez compte que le chant des villageois a changé et qu'eux aussi chantent.  
 Un étrange picotement s'installe dans vos paumes et vos tempes.  
 Vous jetez un sort.  
-Vous pouvez consacrer jusqu'à 10 points de magie à ce sort.  
-Si vous avez moins de 10 points de magie, vous pouvez dépenser des points de vie en plus des points de magie, mais pas au point d'être réduit à 0 point de vie.  
+Vous pouvez consacrer jusqu'à [10](#10) points de magie à ce sort.  
+Si vous avez moins de 10 points de magie, vous pouvez dépenser des points de vie en plus des points de magie, mais pas au point d'être réduit à [0](#0) point de vie.  
 Décidez du nombre de points à engager, puis allez jusqu'à [198](#198)  
   
 # 91  
@@ -1791,7 +1791,7 @@ Le contenu de l'alcôve est très différent de celui de la bibliothèque en gé
 Vous pourriez passer une semaine ici à parcourir les volumes bizarres.  
 Faites un jet d'utilisation de la bibliothèque.  
 Si vous réussissez, allez jusqu'à [177](#177)  
-Si vous échouez, allez à 184, mais si vous échouez, vous pouvez pousser le jet en essayant à nouveau.  
+Si vous échouez, allez à [184](#184), mais si vous échouez, vous pouvez pousser le jet en essayant à nouveau.  
 Si vous échouez le jet poussé, allez à [190](#190)  
   
 # 166  
@@ -1806,7 +1806,7 @@ Sinon, allez à [192](#192)
 # 167  
  Vous êtes à moins de dix pas de la route lorsque l'ours grogne, à quelques centimètres derrière vous, et que ses griffes déchirent votre veste.  
 Chaque griffe est une attaque distincte.  
-Il vous frappe 35 % du temps et vous inflige des dégâts d'une valeur de 3 à 6 fois.  
+Il vous frappe 35 % du temps et vous inflige des dégâts d'une valeur de 3 à [6](#6) fois.  
 Si l'une des griffes inflige la moitié ou plus de vos points de dégâts initiaux, vous avez subi une blessure grave.  
 Après avoir résolu les deux attaques de griffes, si vous avez subi une blessure grave, passez à [179](#179)  
 Sinon, passez à [186](#186)  
@@ -2278,7 +2278,7 @@ D'en haut, elles vous voient, au centre d'une conflagration.
 Elles voient Emberhead s'étendre depuis le Beacon, son petit plateau face à un ciel sombre.  
 Et ils entendent les villageois commencer le même chant que vous venez de terminer.  
 Perdez la raison 1D[3](#3)  
-Si cela vous fait tomber à 0 santé mentale, passez à [220](#220)  
+Si cela vous fait tomber à [0](#0) santé mentale, passez à [220](#220)  
 Pour commander le départ des étoiles, allez à [255](#255)  
 Pour ordonner aux étoiles de vous libérer, allez à [243](#243)  
 Pour ordonner aux étoiles d'incinérer les villageois, allez à [231](#231)  
@@ -2566,8 +2566,8 @@ Sa compétence Esquive est de 15 % (7 % la moitié / 3 % un cinquième).
 Il possède un petit club qui inflige 1D6 de dégâts.  
 Si vous avez un couteau ou une arme similaire, chaque coup réussi fait 1D4 plus votre bonus de dégâts.  
 Si vous n'êtes pas armé, les dégâts sont de 1D3 plus votre bonus de dégâts.  
-Si vous réduisez l'homme à 4 points de dégâts ou moins, passez à [241](#241)  
-Si vous le réduisez à 0 point de dommage, passez à [247](#247)  
+Si vous réduisez l'homme à [4](#4) points de dégâts ou moins, passez à [241](#241)  
+Si vous le réduisez à [0](#0) point de dommage, passez à [247](#247)  
   
 # 236  
  Le flux sanguin des blessures au cou d'Arbogast s'est réduit à un filet.  
@@ -2872,8 +2872,8 @@ Si vous possédez un couteau ou une arme similaire, chaque coup réussi inflige 
 Si vous n'êtes pas armé, les dégâts sont de 1D3 plus votre bonus de dommages.  
 Après trois rounds, vous pouvez tenter de faire le tour derrière l'homme et de vous échapper.  
 Cela nécessite un jet de dé difficile, et si vous n'obtenez pas de succès au jet, il peut porter un autre coup.  
-Si vous réduisez l'homme à 6 points de dégâts ou moins, vous passez à [268](#268)  
-Si vous êtes réduit à 0 point de dommage, passez à [2](#2)  
+Si vous réduisez l'homme à [6](#6) points de dégâts ou moins, vous passez à [268](#268)  
+Si vous êtes réduit à [0](#0) point de dommage, passez à [2](#2)  
 Si vous réussissez à vous échapper, passez à [12](#12)  
   
 # 263  
@@ -2934,7 +2934,7 @@ Un petit monticule de poudre noire, pas plus gros qu'un dé à coudre, y brûle.
 Il dégage des fumées enivrantes.  
 Vous pouvez faire un jet de Hard Science (Botanique).  
 Si vous réussissez, passez à [76](#76)  
-Sinon, vous pouvez éteindre la poudre et dormir : allez à 58 ; ou rester éveillé toute la nuit : allez à 52 ; ou vous pouvez vous détendre et respirer les vapeurs par curiosité : allez à [26](#26)  
+Sinon, vous pouvez éteindre la poudre et dormir : allez à [58](#58) ; ou rester éveillé toute la nuit : allez à [52](#52) ; ou vous pouvez vous détendre et respirer les vapeurs par curiosité : allez à [26](#26)  
   
 # 267  
  Vous traînez vos affaires entre les bâtiments maussades.  
