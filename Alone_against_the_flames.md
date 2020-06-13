@@ -1,13 +1,13 @@
 # 1    
-Le soleil est haut dans le ciel, une boule de chaleur impitoyable.   
-Ca sent le brûlé au moment où vous arrivez à l'arrêt de bus en face de la Pharmacie Osborn.   
+Le soleil est haut dans le ciel et il fait une chaleur insoutenable.   
+Vous sentez le brûlé au moment où vous arrivez à l'arrêt de bus en face de la Pharmacie Osborn.   
 C’est un soulagement de déposer vos valises lourdes et d'enlever votre chapeau un instant.   
 Vous éventez votre visage. Les étés sont long ici, dans votre ville natale.      
-Vous regardez de l'autre côté de la rue, à la boucherie sale, la épiciers avec son auvent fané, et le buraliste minable. Des visages méfiants vous regardent en passant, regardant vos vêtements et bagages.   
+Vous regardez de l'autre côté de la rue, vous voyez la boucherie toujours aussi peu reluisante, l'épicierie avec son auvent fané, et le bureau de tabac. Des visages méfiants vous regardent en passant, regardant vos vêtements et bagages.   
 C'était le choix de vos parents de vivre ici, pas le vôtre.   
-Vous étiez heureux dans le sud quand vous étiez enfant, parmi les maisons aux murs blancs et cimetières verdoyants. Peut-être cette nouvelle emploi à Arkham fournira le changement dont vous avez besoin.    
-Pourtant, tous ceux que vous connaissez dans le monde vivent ici. Tu ne connais personne à Arkham. Tu te demandes une dernière fois si tu fais le bon choix.    
-La réponse est ici. Aucun de tes amis supposés n'est venu pour te voir partir. Tu es seul. Quels que soient les défis à Arkham, ce sera une nouvelle vie.   
+Vous étiez heureux dans le sud quand vous étiez enfant, parmi les maisons aux murs blancs et la végétation verdoyante. Peut-être ce nouvel emploi à Arkham qui vous fournira le changement dont vous avez besoin.    
+Pourtant, tous ceux que vous connaissez vivent ici. Tu ne connais personne à Arkham. Tu te demandes une dernière fois si tu fais le bon choix.    
+La réponse est ici. Aucun de tes supposés amis n'est venu pour te voir partir. Tu es seul. Quels que soient les défis à Arkham, ce sera une nouvelle vie.   
 Un petit autocar gris s'approche et s'immobilise. Vous remettez votre chapeau et ramassez vos étuis.   
   
 Passez au [263](#263)  
@@ -2884,18 +2884,17 @@ Si vous réussissez à vous échapper, passez à [12](#12)
 L'un d'eux vous regarde de haut en bas avant de s'éloigner.  
 Le chauffeur descend également, vous jette un regard avant de traverser la route pour aller au tabac.  
 A son retour, il vous fait rouler une cigarette entre ses doigts jaunis.  
-Il lui donne un dernier tour et vous examine alors qu'il tend la main vers sa boîte d'allumettes.  
+Il l'a fait tourner une dernière fois tout en vous examinant, puis il tend la main vers sa boîte d'allumettes.  
 C'est un homme mince d'une cinquantaine d'années, vêtu d'une chemise tachée avec l'emblème de la compagnie de bus.  
 Pourtant, ses yeux sont aiguisés dans leurs orbites sombres.  
-"Où aller ?" Vous lui montrez votre billet pour Ossipee.  
+"Vous allez ou?" Vous lui montrez votre billet pour Ossipee.  
 De là, vous vous rendrez à Rochester et à Portsmouth, avant la ligne côtière vers Newburyport et, enfin, Arkham.  
 Vous devriez pouvoir vous offrir un billet de train pour une partie du trajet, sinon ce sera le premier d'une longue série de voyages en bus.  
 "Mmm-hm." Le chauffeur gratte l'allumette et allume sa cigarette.  
-Le bout de l'allumette s'embrase lorsqu'il fait un tirage au sort.  
-Puis il expire et fait des gestes à l'arrière du car.  
-"Le porte-bagages est là-haut." Regardez votre feuille d'enquête.  
+Le bout de l'allumette s'embrase, puis il expire sa fumée et vous fait des gestes à l'arrière du car.  
+"Le porte-bagages est là-haut." Regardez votre feuille de personnage.  
 En haut, vous avez des espaces pour huit caractéristiques : Force (STR), Constitution (CON), Puissance (POW), Dextérité (DEX), Apparence (APP), Taille (SIZ), Intelligence (INT), et Education (EDU).  
-Attribuez les valeurs suivantes entre elles, en les inscrivant dans le grand carré à côté de chacune : 40, 50, 50, 50, 60, 60, 70, [80](#80)  
+Attribuez les valeurs suivantes entre elles, en les inscrivant dans le grand carré à côté de chacune : 40, 50, 50, 50, 60, 60, 70, 80. 
 Si vous souhaitez obtenir plus d'informations sur la signification de ces caractéristiques, lisez la page 6 des règles de démarrage rapide.  
 Une fois que vous avez fait cela, passez à la page [8](#8)  
   
