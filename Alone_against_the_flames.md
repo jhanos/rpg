@@ -132,7 +132,7 @@ Vous demandez à nouveau sur ses tarifs, et May nomme un prix afin bas vous l'ac
   
 Pour parler un peu plus à May, rendez-vous au [31](#31)  
 Pour vous promener dehors et vous repérer, rendez-vous au [75](#75)  
-Pour vous rendre tôt le soir, rendez-vous au [63](#63)  
+Pour vous coucher tôt ce soir, rendez-vous au [63](#63)  
   
 # 15  
 Vous demandez à May pourquoi Ruth veut que vous quittiez la ville. Elle regarde sa fille avec un regard noir. Ruth regarde le sol.  
@@ -273,7 +273,7 @@ Vous frissonnez en passant à cotés et vous vous dirigez vers la sortie de la v
 Après les rues misérables et fermées d'Emberhead, vous êtes rafraîchie par le plein air et le sentiment de progrès.   
 Une heure plus tard, Cependant, la route vide cesse d'être une nouveauté. Vous venez d'entrer dans la première parcelle de forêt lorsque vous entendez un sinistre hurlement provenant du nord.  
   
-Faites un jet. Si vous réussissez, passez à [35](#35) Si vous échouez, passez à [41](#41)  
+Faites un jet de nature. Si vous réussissez, passez à [35](#35) Si vous échouez, passez à [41](#41)  
   
 # 29  
 Le côté nord du village est très animé et il est peu probable que vous puissiez y rester longtemps caché.   
@@ -641,19 +641,19 @@ Pour prendre le temps de faire des recherches à la bibliothèque, allez au [68]
 Pour partir pendant qu'il fait encore jour dehors, allez au [180](#180)  
   
 # 63  
- Au mois de mai, on entend un cliquetis derrière soi.  
+Pendant que May se repose devant vous, vous entendez un cliquetis derrière vous.  
 Vous regardez par-dessus votre épaule, mais tout ce que vous voyez, c'est une porte en bois, solidement fermée.  
-Le mois de mai fait un bruit sourd.  
+May fait un bruit sourd.  
 "La jeune femme de la maison.  
 Elle nous aura écoutés.  
 Ruth ! Viens saluer notre invité." Il y a une courte pause, puis la porte s'ouvre en grinçant.  
 Deux grands yeux vous regardent de l'écart, entre des cheveux ébouriffés et une chemise de nuit rugueuse.  
-"Qu'en dites-vous ?" Les yeux clignotent.  
-"Ravi de vous rencontrer." "Maintenant, retournez au lit." La porte se referme.  
+"je t'écoute Ruth".  
+"Ravi de vous rencontrer." "Maintenant, retourne au lit." La porte se referme.  
 "Ma fille Ruth.  
 Dix ans cet été.  
 Elle est à la fois un délice et un tourment.  
-Ne t'inquiète pas, elle dort avec moi.  
+Ne vous inquiètez pas, elle dort avec moi.  
 Elle ne vous dérangera pas.  
 Bonne nuit maintenant." Vous vous retirez dans votre chambre.  
 Il fait un peu froid, mais vous êtes trop fatigué pour vous soucier d'allumer le feu.  
@@ -816,7 +816,8 @@ Le feu de joie du festival sera des plus impressionnants.
 Mais avez-vous l'intention de rester pour le voir ? Vous pensez maintenant que quelque chose ne va pas ici.  
 Pendant que les villageois sont distraits, vous pourriez faire une enquête illicite.  
 Ou vous pouvez simplement quitter la ville sans vous retourner.  
-Vous pouvez maintenant : -Rechercher la chambre de May Ledbetter ; aller au [83](#83)  
+Vous pouvez maintenant : 
+-Rechercher la chambre de May Ledbetter ; aller au [83](#83)  
 -Aller seul à la mairie du village : aller au [126](#126)  
 -Regarder de plus près la cour des artisans : aller au [219](#219)  
 -Espionner l'activité du Phare : aller à la [29](#29)  
@@ -1284,7 +1285,7 @@ Sinon, vous pouvez : -Rechercher la chambre de May Ledbetter : allez à [83](#83
 -Glisser sur la route de l'Est et fuir définitivement : aller au [7](#7)  
   
 # 121  
- A mesure que l'on s'approche, le chiffre recule d'un pas, puis d'un autre.  
+ A mesure que l'on s'approche, la silhouette recule d'un pas, puis d'un autre.  
 Elle glisse dans une allée entre deux bâtiments.  
 Pour attraper votre cible, vous devez faire un jet de poursuite.  
 Si vous réussissez, allez jusqu'à [141](#141)  
@@ -1504,7 +1505,7 @@ Le moment est venu de revenir sur vos pas, en vous éclipsant par la fenêtre.
 Passez à [120](#120)  
   
 # 141  
- La figure se déplace rapidement, avec des pas presque silencieux, mais votre instinct vous tient en laisse.  
+ La silhouette se déplace rapidement, avec des pas presque silencieux, mais votre instinct vous tient en laisse.  
 Elle se glisse dans une cour poussiéreuse, se faufilant entre des clôtures de fer.  
 Vous vous rapprochez alors qu'elle se dirige vers un coin de rue.  
 Une brise vous avertit que vous êtes près du bord d'une falaise.  
@@ -1670,9 +1671,9 @@ Pour prendre quelques livres et partir, allez à la [159](#159)
   
 # 154  
  Vous rêvez de feu dans la grille ; de couleurs coruscantes qui scintillent à travers les langues de flammes dansantes.  
-Au début, elles sont minuscules, presque microscopiques, mais elles grandissent, et grandissent, jusqu'à ce qu'un enfer kaléidoscopique se déverse de la cheminée, se répande sur le sol, sur les draps... Vous vous réveillez avec un début.  
+Au début, elles sont minuscules, presque microscopiques, mais elles grandissent, et grandissent, jusqu'à ce qu'un enfer kaléidoscopique se déverse de la cheminée, se répande sur le sol, sur les draps... Vous vous réveillez en sursaut.  
 La lumière du jour scintille à travers les rideaux.  
-Vous vous levez et examinez la grille, en clignant des yeux le sommeil.  
+Vous vous levez et examinez la grille, en clignant des yeux de sommeil.  
 Il fait assez froid.  
 Si vous avez subi des dégâts, vous pouvez guérir 1 point de coup en retour pour votre nuit de sommeil.  
 Passez maintenant au [166](#166)  
@@ -2910,7 +2911,7 @@ Peut-être devriez-vous simplement courir.
 Mais combien de temps pourriez-vous courir avant de devoir vous arrêter ? Un amas de corps bas et sombres s'échappe des arbres, bloquant la route devant vous.  
 Chaque silhouette a des oreilles hautes et pointues.  
 Leurs yeux scintillent au clair de lune.  
-Faites un jet de santé.  
+Faites un jet de santé mentale.  
 Si vous réussissez, allez au [269](#269)  
 Si vous échouez, passez à [5](#5)  
   
